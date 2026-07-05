@@ -1,0 +1,62 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# Environments and editor settings
+.env
+.venv/
+venv/
+env/
+.conda/
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large scientific data
+data/*
+!data/README.md
+outputs/*
+!outputs/README.md
+*.nc
+*.nc4
+*.grib
+*.grb
+*.hdf
+*.h5
+*.tif
+*.tiff
+*.qgz
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.aux.xml
+
+# Generated tabular and figure outputs
+*.csv
+*.parquet
+*.feather
+figures/*
+!figures/README.md
+
+# Manuscript binaries and archives
+*.docx
+*.pdf
+*.rar
+*.zip
+
+# Logs and temporary files
+*.log
+logs/
+tmp/
+temp/
+

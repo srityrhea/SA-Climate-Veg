@@ -1,0 +1,33 @@
+name: south-asia-geoai
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - ipykernel
+  - numpy
+  - pandas
+  - scipy
+  - xarray
+  - netcdf4
+  - h5netcdf
+  - dask
+  - bottleneck
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - geopandas
+  - rasterio
+  - rioxarray
+  - cartopy
+  - shapely
+  - pyproj
+  - fiona
+  - openpyxl
+  - pyyaml
+  - tqdm
+  - pip
+  - pip:
+      - pymannkendall
+

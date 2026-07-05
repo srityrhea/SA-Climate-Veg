@@ -1,0 +1,28 @@
+project:
+  name: south-asia-climate-extremes
+
+paths:
+  era5_land: data/era5_land
+  cmip6: data/cmip6
+  modis: data/modis
+  srtm: data/srtm
+  boundaries: data/boundaries
+  outputs: outputs
+
+analysis:
+  historical_start: 1985
+  historical_end: 2014
+  zoning_resolution_degrees: 0.10
+  scenarios:
+    - SSP2-4.5
+    - SSP5-8.5
+  near_future:
+    - 2021
+    - 2040
+  mid_future:
+    - 2041
+    - 2070
+  far_future:
+    - 2071
+    - 2100
+
