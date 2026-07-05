@@ -103,8 +103,7 @@ products so users can reconstruct the analysis inputs.
 
 The repository contains the analysis code used for the manuscript. Exact numerical
 reproduction requires the external datasets and intermediate files described in the
-documentation. Before public release, add persistent links or DOIs for archived input
-inventories and derived tabular results where permitted.
+documentation. 
 
 ## Citation
 
