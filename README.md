@@ -108,6 +108,5 @@ inventories and derived tabular results where permitted.
 
 ## Citation
 
-Citation metadata are provided in [CITATION.cff](CITATION.cff). Replace the placeholder
-author and publication fields before publishing the GitHub repository.
+Citation metadata are provided in [CITATION.cff](CITATION.cff).
 
